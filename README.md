@@ -19,3 +19,5 @@ No flow control
 <msg><src>CC128-v1.44</src><dsb>00014</dsb><time>14:27:25</time><tmpr>24.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00749</watts></ch1></msg>
 ```
 ## run ./currentcost.py
+
+real data on https://grafana.panu.it/d/adjqgcl/currencost?orgId=1&from=now-6h&to=now&timezone=browser&refresh=10s
