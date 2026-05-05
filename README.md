@@ -2,6 +2,8 @@
 
 ![CurrentCost](img/currentcost.jpg)
 
+![CurrentCost](mygrafana.png)
+
 ## Serial data RJ45 pinout
 ```
 RJ45 pin 4 (gnd) to DB9 pin 5 (gnd) on my cable RED wire
