@@ -1,5 +1,7 @@
 # CurrentCost to linux host with influxdb and grafana
 
+![CurrentCost][img/currentcost.jpg]
+
 ## Serial data RJ45 pinout
 ```
 RJ45 pin 4 (gnd) to DB9 pin 5 (gnd) on my cable RED wire
