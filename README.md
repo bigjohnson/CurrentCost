@@ -2,7 +2,7 @@
 
 ![CurrentCost](img/currentcost.jpg)
 
-![CurrentCost](mygrafana.png)
+![CurrentCost](img/mygrafana.png)
 
 ## Serial data RJ45 pinout
 ```
