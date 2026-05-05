@@ -18,3 +18,4 @@ No flow control
 ```
 <msg><src>CC128-v1.44</src><dsb>00014</dsb><time>14:27:25</time><tmpr>24.6</tmpr><sensor>0</sensor><id>00077</id><type>1</type><ch1><watts>00749</watts></ch1></msg>
 ```
+## run ./currentcost.py
