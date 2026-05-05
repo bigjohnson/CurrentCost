@@ -1,6 +1,6 @@
 # CurrentCost to linux host with influxdb and grafana
 
-![CurrentCost][img/currentcost.jpg]
+![CurrentCost](img/currentcost.jpg)
 
 ## Serial data RJ45 pinout
 ```
