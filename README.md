@@ -1,4 +1,4 @@
-# CurrentCost to linux host
+# CurrentCost to linux host with influxdb and grafana
 
 ## Serial data RJ45 pinout
 ```
@@ -21,3 +21,4 @@ No flow control
 ## run ./currentcost.py
 
 real data on https://grafana.panu.it/d/adjqgcl/currencost?orgId=1&from=now-6h&to=now&timezone=browser&refresh=10s
+
