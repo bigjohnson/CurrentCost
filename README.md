@@ -1,5 +1,7 @@
 # CurrentCost to linux host with influxdb and grafana
 
+some code from https://github.com/mapkyca/Current-Cost-EnviR/tree/master
+
 ![CurrentCost](img/currentcost.jpg)
 
 ![CurrentCost](img/mygrafana.png)
